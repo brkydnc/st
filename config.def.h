@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Roboto Mono for Powerline:pixelsize=14:antialias=true:autohint=true";
+static char *font = "Roboto Mono for Powerline:pixelsize=17:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
